@@ -8,7 +8,11 @@ blueqat
 =======
 
 A quantum computing SDK
+
 https://www.casleyconsulting.co.jp/blog/engineer/6423/
+
+https://www.casleyconsulting.co.jp/blog/engineer/7145/?lang=ja
+
 
 Version
 =======
